@@ -1,0 +1,7 @@
+#things to ignore
+*.dat
+results/
+
+#things allowed to commit
+!example.dat
+!results/example.out
